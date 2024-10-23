@@ -1,5 +1,16 @@
-## Blueberry-Game
-It's a simple game made in GDevelop
+# Blueberry-Game
+It's a simple game made in GDevelop for mobile and PC
 
-# Description
-This game is made in GDevelop. It's platformer with history about blueberies and aphids.
+## Download
+You can download game from:
+...
+
+## Description
+It's platformer with history about blueberies and aphids.
+
+## Some Video
+
+
+
+## Wiki
+If you want any of more accurate infomation, I invite you to [Wiki](https://github.com/Antmajgra/Blueberry-Game/wiki)
